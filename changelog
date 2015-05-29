@@ -1,0 +1,11 @@
+virt-back (0.1.0-2) UNRELEASED; urgency=medium
+
+  * Forget python-libvirt runtine dependency 
+
+ -- Lionel Felicite <lfelicite@clever-age.com>  Thu, 28 May 2015 16:27:31 +0200
+
+virt-back (0.1.0-1) unstable; urgency=low
+
+  * source package automatically created by stdeb 0.8.2
+
+ -- Lionel Felicite <lfelicite@clever-age.com>  Wed, 27 May 2015 13:58:03 +0200
